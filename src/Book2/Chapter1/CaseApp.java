@@ -1,4 +1,4 @@
-package Book2;
+package Book2.Chapter1;
 
 public class CaseApp {
     public static void main(String[] args){
